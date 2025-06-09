@@ -1,0 +1,62 @@
+ *{
+    background-color: rgb(180, 174, 174);
+h1{
+    border: 2px solid rgb(255,255,255)
+}
+h1{
+    background-color:rgb(255,255,255)
+}
+h1{
+    color: black;
+}
+h1{
+     padding: 15px;
+}
+div{
+    border: 1px solid rgb(255, 255, 255) ;
+}
+div#mm{
+    background-color: #0077ff;
+}
+div#m1{
+    background-color: #1199ff;
+}
+div#m2{
+    background-color:  #22bbff;
+}
+div#m3{
+    background-color:   #33ccff;
+}
+div#m4{
+    background-color:  #55ddff;
+}
+div#m5{
+    background-color:  #77eedd;
+}
+div#m6{
+    background-color: #99ffbb;
+}
+div#m7{
+    background-color:  green;
+}
+div#m8{
+    background-color: #ff99aa ;
+}
+div#m9{
+    background-color:#ff7799 ;
+}
+div#m10{
+    background-color: #ff5577 ;
+}
+div#m11{
+    background-color:#ff3344 ;
+}
+div#m12{
+    background-color:  #ff1122 ;
+}
+div#m13{
+    background-color:    #ee0011 ;
+}
+div#m14{
+    background-color:  red   ;
+}
